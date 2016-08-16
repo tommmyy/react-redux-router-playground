@@ -1,0 +1,6 @@
+{
+	"name": "Root",
+	"main": "./Root.js",
+	"private": true,
+	"version": "0.0.0"
+}
